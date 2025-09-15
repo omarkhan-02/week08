@@ -1,4 +1,5 @@
 # week08/k8s/frontend.yaml
+#configure kubernetes manifest with acr name
 
 apiVersion: apps/v1
 kind: Deployment

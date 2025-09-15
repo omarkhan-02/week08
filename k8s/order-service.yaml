@@ -1,5 +1,5 @@
 # week08/k8s/order-service.yaml
-
+#configure kubernetes manifest with acr name
 apiVersion: apps/v1
 kind: Deployment
 metadata:
